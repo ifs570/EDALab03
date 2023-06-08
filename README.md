@@ -110,7 +110,7 @@
               </ul>
 		  <li>En la imagen se observa como se usa el add, en la cual en la condición if, verifica si esta vacio o no, para colocar en primera el elemento o recorrer la cola y colocar al final el elemento.</li>
 		  <ul>
-			  <li><img src="img/Remove.pngO[O" alt="image_1" style witdh="150"; height="150"/></li>
+			  <li><img src="img/Remove.png" alt="image_1" style witdh="150"; height="150"/></li>
 		  </ul>
 		  <li> Se da el mismo comportamiento del <em>Add()</em> para el remove y el element, no obstante este elimina un nodo, reemplazandolo por el siguiente del siguiente en caso del remove y en el element simplemente arroja el elemento cabecera de la cola.</li> 
 		  <ul>
