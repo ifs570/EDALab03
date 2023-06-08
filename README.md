@@ -76,11 +76,11 @@
           <ul>
           <li><strong>II. Pilas (6 puntos)</strong>
           <ul>
-	     <li><img src="img/isEmpty.png?raw=true" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
 	      </ul>
            <li>En este metodo lo unico que sea hace es comparar la raiz, ya que si esta se encuentra vacia nos indica que no hay ningun elemento en la pila.</li>
              <ul>
-	     <li><img src="img/peek.png?raw=true" alt="image_1" style witdh="150"; height="150"/></li>
+	     <li><img src="img/peek.png" alt="image_1" style witdh="150"; height="150"/></li>
 	      </ul>
            <li>En el metodo peek se recorre la pila hasta llegar al ultimo elemento que es el que esta en la parte superior de la pila y lo muestra.</li>
            <ul>
