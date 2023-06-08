@@ -84,19 +84,19 @@
 	      </ul>
            <li>En el metodo peek se recorre la pila hasta llegar al ultimo elemento que es el que esta en la parte superior de la pila y lo muestra.</li>
            <ul>
-	     <li><img src="img/pop.png?raw=true" alt="image_1" style witdh="150"; height="150"/></li>
+	     <li><img src="img/pop.png" alt="image_1" style witdh="150"; height="150"/></li>
 	      </ul>
            <li>En este metodo llamado pop, tambien se recorre la pila hasta llegar al ultimo elemento el cual es sacado de la pila y mostrado.</li>
            <ul>
-	     <li><img src="img/push.png?raw=true" alt="image_1" style witdh="150"; height="250"/></li>
+	     <li><img src="img/push.png" alt="image_1" style witdh="150"; height="250"/></li>
 	      </ul>
            <li>En este metodo, recorremos la pila para llegar al ultimo elemento al cual le añadimos la referencia del nuevo nodo(que contiene el nuevo dato a ingresar).</li>
            <ul>
-	     <li><img src="img/search.png?raw=true" alt="image_1" style witdh="150"; height="350"/></li>
+	     <li><img src="img/search.png" alt="image_1" style witdh="150"; height="350"/></li>
 	      </ul>
            <li>En este metodo search, se recorre la pila buscando el elemento deseado devolviendo su posicion y en caso este elemento no se encuentre devuelve -1.</li>
            <ul>
-	     <li><img src="img/toString.png?raw=true" alt="image_1" style witdh="150"; height="150"/></li>
+	     <li><img src="img/toString.png" alt="image_1" style witdh="150"; height="150"/></li>
 	      </ul>
            <li>Lo único que hace este elemento es imprimir la pila.</li>
           </ul>
@@ -106,11 +106,11 @@
 	            <li><img src="img/Interface.png" alt="image_1" style witdh="150"; height="150"/></li>
 		  </ul>
 	     <li> Se coloca un interface donde contiene los métodos Queue, donde tres de ellos (add, remove, element) son parecidos a otros tres, solo que estos votan una excepción.</li><ul>
-		  <li><img src = "img/Add.png" alt="image_2" style witdh="150"; height= "180"/></li>
+		  <li><img src = "img/Add%20(1).png" alt="image_2" style witdh="150"; height= "180"/></li>
               </ul>
 		  <li>En la imagen se observa como se usa el add, en la cual en la condición if, verifica si esta vacio o no, para colocar en primera el elemento o recorrer la cola y colocar al final el elemento.</li>
 		  <ul>
-			  <li><img src="img/Remove.png" alt="image_1" style witdh="150"; height="150"/></li>
+			  <li><img src="img/Remove.pngO[O" alt="image_1" style witdh="150"; height="150"/></li>
 		  </ul>
 		  <li> Se da el mismo comportamiento del <em>Add()</em> para el remove y el element, no obstante este elimina un nodo, reemplazandolo por el siguiente del siguiente en caso del remove y en el element simplemente arroja el elemento cabecera de la cola.</li> 
 		  <ul>
